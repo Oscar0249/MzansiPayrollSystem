@@ -17,6 +17,7 @@ namespace MzansiPayrollSystem
             InitializeComponent();
         }
 
+
         private void lblMembership_Click(object sender, EventArgs e)
         {
 
